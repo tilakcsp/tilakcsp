@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Tilak Chandana
 - 🎯 Looking for Full Time Product Manager and Business Analyst Roles
 - 👀 I’m interested in ... Data and AI for Business, Innovation
-- 🌱 I’m currently learning ... New Tech and Gen AI 
+- 🌱 I’m currently learning ... Agentic AI and Scaling Applications 
 - 💞️ I’m looking to collaborate on ... Gen AI, AI Agents 
 - 📫 How to reach me ... tilakcsp@gmail.com
 
